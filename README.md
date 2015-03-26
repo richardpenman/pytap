@@ -1,4 +1,3 @@
-
 # English #
 
 
@@ -57,7 +56,7 @@ Pytap is derived from the [xAtUm](http://sourceforge.net/projects/xatum/) projec
 * teksto estas donita al pytap
 * la teksto estas analizita en vortoj, silaboj, kaj karakteroj 
 * [fonemo](http://eo.wikipedia.org/wiki/Fonemo) estas asignita al ĉiu karaktero, kiu estas influita de la pozicio de la karaktero en la vorto kaj la ĉirkaŭa interpunkcio
-* la fonemaro estas sintezita en sono kun [http://tcts.fpms.ac.be/synthesis/mbrola.html mbrola] por produkti la voĉon
+* la fonemaro estas sintezita en sono kun [mbrola](http://tcts.fpms.ac.be/synthesis/mbrola.html) por produkti la voĉon
 
 ## Uzado ##
 
@@ -92,4 +91,4 @@ Options:
 (Deŝuti [vira voĉo](http://pytap.googlecode.com/files/mario.wav) kaj [virina voĉo](http://pytap.googlecode.com/files/maria.wav).)
 
 ## Historio ##
-Pytap estas derivita de la [xAtUm](http://sourceforge.net/projects/xatum/) projekto. 
+Pytap estas derivita de la [xAtUm](http://sourceforge.net/projects/xatum/) projekto.
